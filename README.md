@@ -7,10 +7,7 @@ Credit card offers can be attractive, but depending on the credit card and how y
 
 In this project I analyse my credit card expenses and purchasing habits to determine if a credit offer I got is worth accepting.
 
-![image](https://github.com/aleivaar94/BMO-Airmiles-Analysis/blob/master/images/bmo-airmiles-offer-1.png)
-
-![image](https://github.com/aleivaar94/BMO-Airmiles-Analysis/blob/master/images/bmo-airmiles-offer-3.png)
-
+![image](https://github.com/aleivaar94/BMO-Airmiles-Analysis/blob/master/images/credit-card-cbc-news.png)
 
 
 # Methodology

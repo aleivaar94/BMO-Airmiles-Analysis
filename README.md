@@ -43,8 +43,18 @@ I track my expenses and keep them in an Excel spreadsheet. Each expenses include
 3. Extra miles are calculated for affiliated stores that give more miles than the standard rate of 1 mile = $20.0 dollars.
 4. Miles are summed per year and the total cashback is calculated by subtracting the annual fee of each credit card.
 
+
+# Results
+
 ![image](https://github.com/aleivaar94/BMO-Airmiles-Analysis/blob/master/images/df-benefits-cards.png)
 
+In 2021, with the BMO Elite card I could have earned almost $300.0 dollars worth for miles or $111.0 dollars more than my current Scotiabank cash back card.
+
+In 2022 the BMO Elite card still doesn't bring me benefit. In fact, I would have earned $167 instead of $181 dollars currently earned with my Scotia card. However, the year is not over, and I will accumulate more purchases which will make the BMO Elite card bring me more cash back by the end of the year.
+
+# Conclusion
+
+The BMO Air Miles World Elite credit card is a good option offered and I should consider switching to it, because it is better than the Scotiabank cash back credit card I currently have. 
 
 
 ## 🔗 Links
